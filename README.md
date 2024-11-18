@@ -1,7 +1,7 @@
 # E-commerce API
 
 ## Introduction
-This API provides a robust backend for an e-commerce platform, enabling users to manage products, orders, and user accounts. It leverages RESTful principles to provide a clean and efficient interface for interacting with the application's data.
+Django-powered API provides a backend for an e-commerce platform, enabling users to manage products, orders, and user accounts.
 
 ## Key Features
 
